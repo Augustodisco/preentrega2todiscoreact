@@ -1,0 +1,15 @@
+.tecno{
+    display: block;
+    width: 200px;
+}
+
+.tecno img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+.descripcion{
+    text-decoration-color: blueviolet;
+}
